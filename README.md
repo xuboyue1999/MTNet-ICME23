@@ -2,10 +2,9 @@
 This is the results of the ICME2023 paper "MTNet: Learning Modality-aware Representation with Transformer for RGBT Tracking".
 ![image](pipeline.png)
 ## GTOT results
-![image](gtot-pr.jpg)
-![image](gtot-sr.jpg)
+![avatar](gtot-pr.jpg) ![avatar](gtot-sr.jpg)
 ## RGBT-234 results
-![image](rgbt234-pr.jpg)
+![avatar](rgbt234-pr.jpg)
 ![image](rgbt234-sr.jpg)
 ## LaSheR results
 ![image](lasher-pr.jpg)
