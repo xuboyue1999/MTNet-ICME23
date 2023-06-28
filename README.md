@@ -16,7 +16,7 @@ You can download the raw result GTOT-result.rar
 You can download the raw result RGBT234-result.rar
 
 **RGBT234 PR:0.850 SR:0.619**
-![image](rgbt234-result.png)
+![image](RGBT234-result.png)
 ## 🌟LaSheR results
 You can download the raw result LaSHeR-result.rar
 
