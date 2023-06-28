@@ -1,6 +1,12 @@
 # ICME23-MTNet
 This is the results of the ICME2023 paper "MTNet: Learning Modality-aware Representation with Transformer for RGBT Tracking".
 ![image](pipeline.png)
+
+The ability to learn robust multi-modality representationhas played a critical role in the development ofRGBT tracking. However, the regular fusion paradigm and the invariable tracking template remain restrictive to the feature interaction. In this paper, we propose a modality-aware tracker based on transformer, termed MTNet. Specifically, a modalityaware network is presented to explore modality-specific cues, which contains both channel aggregation and distribution module (CADM) and spatial similarity perception module (SSPM). A transformer fusion network is then applied to capturing global dependencies to reinforce instance representations. To estimate the precise location and tackle the challenges, such as scale variation and deformation, we design a trident prediction head and a dynamic update strategy which jointly maintain a reliable template for facilitating inter-frame communication. Extensive experiments validate that the proposed method achieves satisfactory results compared with the state-of-the-art competitors on three RGBT benchmarks while reaching real-time speed.
+<div align="center">
+   <img src="MT-RGB.gif"  height=240><img src="MT-T.gif" height=240>
+</div>
+
 ## 🌟GTOT results
 You can download the raw result GTOT-result.rar
 
