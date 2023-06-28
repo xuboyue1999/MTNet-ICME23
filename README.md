@@ -1,4 +1,4 @@
-# MTNet: Learning Modality-aware Representation with Transformer for RGBT Tracking(IEEE International Conference on Multimedia and Expo (ICME))
+# MTNet: Learning Modality-aware Representation with Transformer for RGBT Tracking(IEEE International Conference on Multimedia and Expo (ICME23))
 This is the results of the ICME2023 paper "MTNet: Learning Modality-aware Representation with Transformer for RGBT Tracking".
 ![image](pipeline.png)
 
