@@ -26,7 +26,23 @@ You can download the raw result LaSHeR-result.rar
 Please cite this paper in your publications if it helps your research:
 
 ```
-[1] Ruichao Hou, Boyue Xu, Tongwei Ren, Gangshan Wu. Proceedings of IEEE International Conference on Multimedia and Expo (ICME'23), Brisbane, Australia, 2023.
+@inproceedings{hou2022mirnet,
+  title={MIRNet: A Robust RGBT Tracking Jointly with Multi-Modal Interaction and Refinement},
+  author={Hou, Ruichao and Ren, Tongwei and Wu, Gangshan},
+  booktitle={2022 IEEE International Conference on Multimedia and Expo (ICME)},
+  pages={1--6},
+  year={2022},
+  organization={IEEE}
+}
+```
 
-[2] Hou, Ruichao, Tongwei Ren, and Gangshan Wu. "MIRNet: A Robust RGBT Tracking Jointly with Multi-Modal Interaction and Refinement." 2022 IEEE International Conference on Multimedia and Expo (ICME). IEEE, 2022.
+```
+@inproceedings{hou2023mtnet,
+  title={MTNet: Learning Modality-aware Representation with Transformer for RGBT Tracking},
+  author={Hou, Ruichao and Xu, Boyue and Ren, Tongwei and Wu, Gangshan},
+  booktitle={2023 IEEE International Conference on Multimedia and Expo (ICME)},
+  pages={1--6},
+  year={2023},
+  organization={IEEE}
+}
 ```
